@@ -1,16 +1,15 @@
-## Hi there 👋
+# Discord Bot Status Changer [ GlaceYT ]
 
-<!--
-**cowokhebat/cowokhebat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This Discord bot status changer is a simple JavaScript application that allows you to change your bot's presence status on Discord. You can customize your bot's status to display a specific message or show that it is playing a particular game.
 
-Here are some ideas to get you started:
+## Usage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Clone or download this repository to your local machine or fork it.
+
+2. Install the required dependencies using npm or yarn:
+
+   ```shell
+   npm install
+   ```
+3. Add your token in secrets
+
